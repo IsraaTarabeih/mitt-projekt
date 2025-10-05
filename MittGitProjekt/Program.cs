@@ -10,6 +10,8 @@ namespace MittGitProjekt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hej hej test test.");
+            Console.ReadLine();
         }
     }
 }
